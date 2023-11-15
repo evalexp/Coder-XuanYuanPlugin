@@ -1,0 +1,8 @@
+{
+  "name": "Coder",
+  "type": "helper",
+  "entry": "top.evalexp.tools.plugins.Coder",
+  "author": "Evalexp",
+  "version": "1.0.0",
+  "description": "A coder plugin, for fast encode or decode."
+}
